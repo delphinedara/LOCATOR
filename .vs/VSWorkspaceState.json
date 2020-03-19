@@ -2,13 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\app_server",
-    "\\app_server\\controllers",
     "\\app_server\\views",
     "\\bin",
     "\\public",
     "\\public\\javascripts",
     "\\public\\stylesheets"
   ],
-  "SelectedNode": "\\app_server\\controllers\\others.js",
+  "SelectedNode": "\\app_server\\views\\location-info.pug",
   "PreviewInSolutionExplorer": false
 }
